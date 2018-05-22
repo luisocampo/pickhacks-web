@@ -1762,7 +1762,7 @@ body {
   color: #767676 !important;
 }
 .cid-qSKnGj70Qw {
-  background: linear-gradient(45deg, #cc2952, #0f7699);
+  background: linear-gradient(45deg, #ff7f9f, #0f7699);
 }
 .cid-qSKnGj70Qw .mbr-section-subtitle {
   font-style: italic;
@@ -1803,10 +1803,79 @@ body {
   font-size: 72px;
   color: #707070;
 }
-.cid-qSKrSBnqn7 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+.cid-qSKEGcR0r2 {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #ce7b90;
+}
+.cid-qSKEGcR0r2 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qSKEGcR0r2 .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-qSKEGcR0r2 .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-qSKEGcR0r2 .team-item .item-image img {
+  width: 100%;
+}
+.cid-qSKEGcR0r2 .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-qSKEGcR0r2 .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-qSKEGcR0r2 .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qSKEGcR0r2 .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-qSKEGcR0r2 .team-item .item-caption {
+  background: #efefef;
+}
+.cid-qSKF6Bzy7m {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #ce7b90;
+}
+.cid-qSKF6Bzy7m .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qSKF6Bzy7m .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-qSKF6Bzy7m .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-qSKF6Bzy7m .team-item .item-image img {
+  width: 100%;
+}
+.cid-qSKF6Bzy7m .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-qSKF6Bzy7m .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-qSKF6Bzy7m .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qSKF6Bzy7m .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-qSKF6Bzy7m .team-item .item-caption {
+  background: #efefef;
 }
 .cid-qSKo0dQmJf {
   padding-top: 60px;
@@ -1846,10 +1915,14 @@ body {
 .cid-qSKo0dQmJf .card .card-header a.panel-title h4 .sign {
   padding-right: 1rem;
 }
+.cid-qSKo0dQmJf H4 {
+  color: #232323;
+  text-align: left;
+}
 .cid-qSKo9eSDEa {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #69ba3e;
+  background-color: #ffffff;
 }
 .cid-qSKo9eSDEa .carousel-control {
   background: #000;
