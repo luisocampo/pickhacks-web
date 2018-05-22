@@ -1783,25 +1783,23 @@ body {
 .cid-qSKnMwAvhz .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qSKnQftf11 {
+.cid-qSNNacgJpb {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #f9f9f9;
 }
-.cid-qSKnQftf11 h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-qSKnQftf11 p {
+.cid-qSNNacgJpb .mbr-text {
   color: #767676;
-  text-align: left;
 }
-.cid-qSKnQftf11 .card-img {
-  text-align: left;
+.cid-qSNNacgJpb h4 {
+  text-align: center;
 }
-.cid-qSKnQftf11 .card-img span {
-  font-size: 72px;
-  color: #707070;
+.cid-qSNNacgJpb p {
+  text-align: center;
+}
+.cid-qSNNacgJpb .card-img span {
+  font-size: 96px;
+  color: #149dcc;
 }
 .cid-qSKEGcR0r2 {
   padding-top: 90px;
