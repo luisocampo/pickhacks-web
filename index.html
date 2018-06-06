@@ -36,7 +36,7 @@
             <h1 class="mbr-section-title py-3 mbr-fonts-style display-1"><strong>FLEX YOUR BRAIN.</strong></h1>
             <p class="mbr-text py-3 mbr-fonts-style display-5">
                 Missouri S&amp;T's annual hackathon is back and better than ever.<br>Sign up for our mailing list to be the first to know when registration opens.</p>
-            <div class="mbr-section-btn py-4"><a class="btn btn-md btn-success display-4"><script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us18.list-manage.com","uuid":"856465f72a4d3c5f8d8fb2a48","lid":"8b600ab52a"}) })</script></a>
+            <div class="mbr-section-btn py-4"><a class="btn btn-md btn-success display-4" id="open-popup"></a>
                     <a class="btn btn-md btn-white-outline display-4" href="https://mobirise.com">SPONSORSHIP</a></div>
         </div>
     </div>
@@ -52,6 +52,17 @@
   <script src="assets/smoothscroll/smooth-scroll.js"></script>
   <script src="assets/parallax/jarallax.min.js"></script>
   <script src="assets/theme/js/script.js"></script>
+
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+
+<script>
+function showMailingPopUp() {
+require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us11.list-manage.com","uuid":"YOUR_UUID_GOES_HERE","lid":"YOUR_LID_GOES_HERE"}) })
+document.cookie = "MCEvilPopupClosed=; expires=Thu, 01 Jan 1970 00:00:00 UTC";
+};
+
+document.getElementById("open-popup").onclick = function() {showMailingPopUp()};
+</script>
   
   
 </body>
