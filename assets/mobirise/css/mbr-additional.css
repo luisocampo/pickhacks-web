@@ -1372,10 +1372,19 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qTK6Et3UyN {
-  background: linear-gradient(45deg, #005f83, #78be20);
+.cid-qU9TURT6Wn {
+  background-image: url("../../../assets/images/27747607-934968039985891-1739590089338255985-o-2000x1333.jpg");
 }
-.cid-qTK6Et3UyN .mbr-section-subtitle {
-  font-style: italic;
-  letter-spacing: 1rem;
+.cid-qU9TURT6Wn .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+}
+.cid-qU9TURT6Wn .input-group-btn {
+  justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-qU9TURT6Wn .content-container {
+    padding-right: 5rem;
+  }
 }
