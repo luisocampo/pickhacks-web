@@ -1372,19 +1372,10 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qU9TURT6Wn {
+.cid-qUa10tFFHs {
   background-image: url("../../../assets/images/27747607-934968039985891-1739590089338255985-o-2000x1333.jpg");
 }
-.cid-qU9TURT6Wn .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-}
-.cid-qU9TURT6Wn .input-group-btn {
-  justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-qU9TURT6Wn .content-container {
-    padding-right: 5rem;
-  }
+.cid-qUa10tFFHs .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
 }
